@@ -1,2 +1,2 @@
 # Logbook_Beneyto_Jes-s_
-Diario de teleco
+Diario de un teleco
