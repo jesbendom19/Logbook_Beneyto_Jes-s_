@@ -1,0 +1,13 @@
+jfongo@minion:/media/jfongo/Ventoy/TELECO/gitworks/Logbook$ git init
+hint: Usando 'master' como el nombre de la rama inicial. Este nombre de rama predeterminado
+hint: está sujeto a cambios. Para configurar el nombre de la rama inicial para usar en todos
+hint: de sus nuevos repositorios, reprimiendo esta advertencia, llama a:
+hint:
+hint: 	git config --global init.defaultBranch <nombre>
+hint:
+hint: Los nombres comúnmente elegidos en lugar de 'master' son 'main', 'trunk' y
+hint: 'development'. Se puede cambiar el nombre de la rama recién creada mediante este comando:
+hint:
+hint: 	git branch -m <nombre>
+Inicializado repositorio Git vacío en /media/jfongo/Ventoy/TELECO/gitworks/Logbook/.git/
+jfongo@minion:/media/jfongo/Ventoy/TELECO/gitworks/Logbook$ 
